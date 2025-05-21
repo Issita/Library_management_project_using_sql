@@ -28,3 +28,7 @@ This project highlights the development of a robust Library Management System le
 - Demonstrate proficiency in query optimization and database performance tuning.
 
 This structured approach ensures a scalable, efficient, and data-driven Library Management System, showcasing expertise in database design, SQL operations, and business intelligence.
+
+
+## Project Structure:
+[]()
