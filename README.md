@@ -31,4 +31,4 @@ This structured approach ensures a scalable, efficient, and data-driven Library 
 
 
 ## Project Structure:
-[](https://github.com/Issita/Library_management_project_using_sql/blob/main/erd_library.png)
+![](https://github.com/Issita/Library_management_project_using_sql/blob/main/erd_library.png)
