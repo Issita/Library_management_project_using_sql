@@ -34,7 +34,7 @@ This structured approach ensures a scalable, efficient, and data-driven Library 
 ![](https://github.com/Issita/Library_management_project_using_sql/blob/main/erd_library.png)
 
 **Table Creation:**
-```postgreSQL
+```SQL
 DROP TABLE IF EXISTS branch;
 CREATE TABLE branch
 	(
@@ -44,8 +44,7 @@ CREATE TABLE branch
 		contact_no VARCHAR(10)
 	);
 
-ALTER TABLE branch
-ALTER COLUMN contact_no TYPE VARCHAR(20);
+
 
 DROP TABLE IF EXISTS employees;
 CREATE TABLE employees
